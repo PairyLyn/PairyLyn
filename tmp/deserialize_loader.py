@@ -1,6 +1,5 @@
 import base64
 import pickle
-import requests
 
 # b64加密的code
 se_shellcode = b'en-sc-loader'
