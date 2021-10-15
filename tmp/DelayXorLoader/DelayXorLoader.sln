@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DelayXorLoader", "DelayXorLoader.vcxproj", "{EA8C7C98-392A-407E-8629-D3DA6414FAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Debug|x64.ActiveCfg = Debug|x64
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Debug|x64.Build.0 = Debug|x64
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Debug|x86.Build.0 = Debug|Win32
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Release|x64.ActiveCfg = Release|x64
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Release|x64.Build.0 = Release|x64
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Release|x86.ActiveCfg = Release|Win32
+		{EA8C7C98-392A-407E-8629-D3DA6414FAB7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE610EDD-E8A8-4E2C-938B-063AA369B5D5}
+	EndGlobalSection
+EndGlobal
